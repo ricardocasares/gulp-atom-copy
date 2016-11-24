@@ -1,0 +1,13 @@
+{
+  "name": "gulp-atom-copy",
+  "version": "1.0.0",
+  "description": "Simple gulp-atoms task to copy files",
+  "main": "index.js",
+  "author": "Ricardo Casares",
+  "license": "GPLv3",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/ricardocasares/gulp-atom-copy.git"
+  },
+  "bugs": "https://github.com/ricardocasares/gulp-atom-copy/issues"
+}
